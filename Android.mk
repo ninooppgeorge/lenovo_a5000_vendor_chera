@@ -14,7 +14,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter adder, $(TARGET_DEVICE)),)
+ifneq ($(filter chera, $(TARGET_DEVICE)),)
 
 #include $(CLEAR_VARS)
 #LOCAL_MODULE := libdpframework

@@ -12,4 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/lenovo/adder/adder-vendor-blobs.mk)
+$(call inherit-product, vendor/lenovo/chera/chera-vendor-blobs.mk)
